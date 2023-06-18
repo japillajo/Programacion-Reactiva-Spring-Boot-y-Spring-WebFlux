@@ -1,0 +1,3 @@
+[submodule "workspace/spring-boot-reactor"]
+	path = workspace/spring-boot-reactor
+	url = https://github.com/japillajo/spring-boot-reactor.git
